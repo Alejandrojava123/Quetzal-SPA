@@ -1,0 +1,13 @@
+Módulo: Gestión de Pagos
+
+Este archivo representa la implementación inicial del módulo de administración de pagos del Sistema Web de Administración para Quetzal-SPA.
+
+Funcionalidades previstas:
+- Registrar pagos.
+- Consultar pagos.
+- Editar pagos.
+- Generar comprobantes.
+- Consultar historial de pagos.
+
+RF-05
+Versión inicial.
