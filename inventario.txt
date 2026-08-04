@@ -1,0 +1,13 @@
+Módulo: Gestión de Inventario
+
+Este archivo representa la implementación inicial del módulo de administración de inventario del Sistema Web de Administración para Quetzal-SPA.
+
+Funcionalidades previstas:
+- Registrar productos.
+- Consultar inventario.
+- Actualizar existencias.
+- Controlar entradas y salidas.
+- Generar alertas de stock.
+
+RF-06
+Versión inicial.
