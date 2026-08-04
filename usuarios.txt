@@ -1,0 +1,13 @@
+Módulo: Gestión de Usuarios
+
+Este archivo representa la implementación inicial del módulo de administración de usuarios del Sistema Web de Administración para Quetzal-SPA.
+
+Funcionalidades previstas:
+- Registrar usuarios.
+- Editar usuarios.
+- Eliminar usuarios.
+- Asignar roles.
+- Administrar permisos.
+
+RF-08
+Versión inicial.
