@@ -1,0 +1,13 @@
+Módulo: Reportes
+
+Este archivo representa la implementación inicial del módulo de reportes del Sistema Web de Administración para Quetzal-SPA.
+
+Funcionalidades previstas:
+- Generar reportes de clientes.
+- Generar reportes de citas.
+- Generar reportes de ingresos.
+- Exportar reportes.
+- Consultar estadísticas.
+
+RF-07
+Versión inicial.
