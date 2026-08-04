@@ -1,0 +1,13 @@
+Módulo: Seguridad
+
+Este archivo representa la implementación inicial del módulo de seguridad del Sistema Web de Administración para Quetzal-SPA.
+
+Funcionalidades previstas:
+- Control de acceso.
+- Gestión de permisos.
+- Protección de información.
+- Registro de actividad.
+- Autenticación de usuarios.
+
+RF-09
+Versión inicial.
