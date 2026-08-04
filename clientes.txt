@@ -1,1 +1,6 @@
-Implementación inicial del módulo.
+Módulo de Gestión de Clientes.
+
+Este archivo representa la implementación inicial del módulo de administración de clientes del Sistema Web de Administración para Quetzal-SPA.
+
+RF-02
+Versión inicial.
