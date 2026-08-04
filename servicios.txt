@@ -1,0 +1,13 @@
+Módulo: Gestión de Servicios
+
+Este archivo representa la implementación inicial del módulo de administración de servicios del Sistema Web de Administración para Quetzzal-SPA.
+
+Funcionalidades previstas:
+- Registrar servicios.
+- Consultar servicios.
+- Editar servicios.
+- Desactivar servicios.
+- Administrar precios y duración.
+
+RF-03
+Versión inicial.
