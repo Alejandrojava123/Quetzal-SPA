@@ -1,0 +1,13 @@
+Módulo: Configuración del Sistema
+
+Este archivo representa la implementación inicial del módulo de configuración del Sistema Web de Administración para Quetzal-SPA.
+
+Funcionalidades previstas:
+- Configurar parámetros.
+- Administrar preferencias.
+- Configurar usuarios.
+- Configurar servicios.
+- Gestionar opciones generales.
+
+RF-11
+Versión inicial.
